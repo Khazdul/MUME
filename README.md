@@ -15,7 +15,7 @@ AffectsTimer:
 
 comLibrary:
 1) Install the package
-2) Type "coms" to toggle the window. Press help for more info.
+2) Type "coms" to toggle the window. Press help button for more info.
 
 regBench:
 1) Install the package
