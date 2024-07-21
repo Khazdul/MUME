@@ -1,26 +1,34 @@
 Usage manual:
+All packages needs to be installed from the package manager in Mudlet (Alt+O). They can be removed from the same menu.
 
+AffectsTimer
+Tracks and displays remaining time for spells and various buffs/maluses.
+Usage: Type "affects" to toggle the window.
 
 Blindmonitor:
-1) Install package in mudlet (alt+O)
-2) Type "blinds" to toggle the window. Press the help button for more info.
-
-Port key library:
-1) Install package in mudlet (alt+O)
-2) Type "keys" to toggle the window. Press the help button for more info.
-
-AffectsTimer:
-1) Install package in mudlet (alt+O)
-2) Type "affects" to toggle the window.
+Tracks what's been blinded and shows remaining time until it wears off.
+Usage: Type "blinds" to toggle the window. Press the help button for more info.
 
 comLibrary:
-1) Install package in mudlet (alt+O)
-2) Type "coms" to toggle the window. Press help button for more info.
+Communication library that shows incoming (non-NPC) and outgoing communication through various channels.
+Usage: Type "coms" to toggle the window. Press help button for more info.
+
+DarkTheme:
+Makes mudlet dark and minimalistic.
+Usage: Type "menubar" to toggle the menubar.
+
+Port key library:
+Management system for room keys for teleporting, portalling, watch room and scry.
+Usage: Type "keys" to toggle the window. Press the help button for more info.
 
 regBench:
-1) Install package in mudlet (alt+O)
-2) Type "regbench" to show the window.
+Benchmark the rate at which you regen hps/mana/moves.
+Usage: Type "regbench" to show the window.
 
 twiddleSameRow
-1) Install package in mudlet (alt+O)
-2) Turn on twiddlers in MUME by typing "cha prompt twiddle".
+Shows a live counter and twiddler for delayed commands.
+Usage: Turn on twiddlers in MUME by typing "cha prompt twiddle".
+
+XPCounter:
+Displays and stores gained experience from your session.
+Usage: Type 'xpstart' to initiate or restart the xp counter. Type 'xp' to display statistics for current session.
