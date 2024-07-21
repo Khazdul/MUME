@@ -7,11 +7,11 @@ Blindmonitor:
 
 Port key library:
 1) Install package in mudlet (alt+O)
-2) Type "blinds" to toggle the window. Press the help button for more info.
+2) Type "keys" to toggle the window. Press the help button for more info.
 
 AffectsTimer:
 1) Install package in mudlet (alt+O)
-2) Type affects to toggle the window.
+2) Type "affects" to toggle the window.
 
 comLibrary:
 1) Install package in mudlet (alt+O)
