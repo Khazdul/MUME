@@ -12,6 +12,9 @@ Usage: Type 'affects' to toggle the window.<br>
 Same as above but displays affects in a userWindow (which can be moved outside mudlet main window)<br>
 Usage: Type 'affects' to toggle the window. 'affectbigger' and 'affectsmaller' changes the size of the window.<br>
 
+<b>BasicSettings</b><br>
+Contains some basic settings for targeting, spells, doors, changing between classes etc<br>
+
 <b>Blindmonitor</b><br>
 Tracks what's been blinded and shows remaining time until it wears off.<br>
 Usage: Type 'blinds' to toggle the window. Press the help button for more info.<br>
