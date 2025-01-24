@@ -1,2 +1,1 @@
-2.0.0 -> Bug fix
-2.0.1 -> Breaking change introduced
+2.0.1
