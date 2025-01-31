@@ -1,12 +1,12 @@
 <b>Usage manual</b><br>
 All packages needs to be installed from the package manager in Mudlet (Alt+O). They can be removed from the same menu.
 
-<b>AffectsTimer</b><br>
+<b>MumeSpellTimers</b><br>
 Tracks and displays remaining time for spells, buffs/maluses, charms, blinds sancs and stored spells.<br>
-Usage: Type 'affects' to toggle the window.<br>
+Usage: Type 'spells' to toggle the window.<br>
        To keep track of which number (x.) target that has been blinded either use the "bli <target>" or you need<br>
        to call this function to your settings right before you cast blind on your target variable:
-       affectTimers.attemptBlind(target)
+       MumeSpellTimers.attemptBlind(target)
 
 <b>AffectsTimer (userWindow)</b><br>
 Same as above but displays affects in a userWindow (which can be moved outside mudlet main window)<br>
