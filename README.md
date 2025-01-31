@@ -9,7 +9,7 @@ Usage: Type 'spells' to toggle the window.<br>
        MumeSpellTimers.attemptBlind(target)
 
 <b>AffectsTimer (userWindow)</b><br>
-Same as above but displays affects in a userWindow (which can be moved outside mudlet main window)<br>
+Displays affects in a userWindow (which can be moved outside mudlet main window)<br>
 Usage: Type 'affects' to toggle the window. 'affectbigger' and 'affectsmaller' changes the size of the window.<br>
 
 <b>BasicSettings</b><br>
